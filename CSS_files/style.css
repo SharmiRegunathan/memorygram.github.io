@@ -1,0 +1,180 @@
+.navbar{
+  padding: 0;
+  height: 100px;
+}
+.navbar-nav{
+  padding-bottom:40px;
+  margin-top: 0;
+  text-align: center;
+}
+.navbar-brand{
+  padding-left:10px;
+}
+body{
+  margin:0;
+  padding: 0;
+  font-size:22px;
+  text-align: center;
+  font-weight: 300;
+}
+
+div{
+  padding-top:40px;
+}
+.top-cloud{
+  position:absolute;
+  right:320px;
+  top: 135px;
+}
+
+.bottom-cloud{
+  position:absolute;
+
+}
+.profile_pic{
+  margin-bottom: 20px;
+}
+p{
+  font-family: verdana,sans-serif,serif;
+}
+.top_container{
+  background-color: #EAF6F6;
+  padding-top: 20%;
+  position: relative;
+}
+
+.profile p{
+  padding-bottom: 60px;
+  display: inline-block;
+  text-align: center;
+  width:60%;
+  font-size: 70%;
+  line-height: 2;
+}
+
+h1{
+  font-family:"Dancing Script";
+  margin-bottom: 0;
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+
+}
+h2{
+  font-family:"Dancing Script";
+  margin-bottom: 0;
+  font-size: 1.56rem;
+  font-weight: normal;
+  color: #66BFBF;
+  padding-bottom: 20px;
+
+}
+
+.Dark-text{
+  color: #206a5d;
+}
+
+.skills{
+  padding-bottom: 50px;
+}
+
+.skills h2{
+  padding-top: 30px;
+  margin-top: 0;
+}
+.skill-row{
+  width:50%;
+  display: inline-block;
+  text-align: left;
+  padding-top: 30px;
+}
+
+.web_img{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+.organize_img{
+  float: right;
+  padding-left: 30px;
+}
+.skills p{
+  font-size:70%;
+  line-height: 2;
+}
+h3{
+  padding-top: 30px;
+  margin-top: 0;
+  padding-top: 0;
+  color: #66BFBF;
+  font-family:"Dancing Script";
+}
+
+.contact-me{
+  padding-bottom: 50px;
+}
+.contact-me h2{
+  margin-top: 0;
+  padding-bottom: 20px;
+}
+
+.contact-me p{
+  display: inline-block;
+  width:40%;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+hr{
+  border-style: dotted none none none;
+  width:35px;
+  border-width: 4px;
+  border-color: grey;
+}
+
+
+.contact_button {
+      text-align:center;
+      border:100%;
+      font-weight:300;
+      text-decoration: none;
+      border-radius:300px;
+      color:white;
+      background-color: #66BFBF;
+      padding:10px 30px;
+      text-align:center;
+}
+
+
+.contact_button:hover {
+  text-align:center;
+  border:100%;
+  font-weight:300;
+  text-decoration: none;
+  border-radius:300px;
+  color:grey;
+  background-color: #EAF6F6;
+  padding:10px 30px;
+  text-align:center;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 40px;
+}
+
+.bottom-container a{
+    color:#206a5d;
+    text-decoration: none;
+    font-size: 40%;
+    padding: 40px 30px;
+}
+
+.bottom-container a:hover{
+    color:#fff;
+}
+
+.bottom-container p{
+    color:#fff;
+    font-size: 50%;
+    padding-top: 5%;
+}
